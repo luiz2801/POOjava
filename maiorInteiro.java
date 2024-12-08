@@ -1,3 +1,6 @@
+//3) Escreva um método que receba dois números inteiros e imprima o maior entre eles.
+
+
 
 class questao03 {
     public static void maior(int n1, int n2){
@@ -10,11 +13,5 @@ class questao03 {
         else{
             System.out.println("Eles são iguais");
         }
-    }
-}
-public class maiorInteiro {
-    public static void main(String[] args) {
-        questao03 x = new questao03(); // Parênteses adicionados na instância
-        x.maior(3, 5);        
     }
 }
