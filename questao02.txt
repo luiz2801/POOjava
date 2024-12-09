@@ -1,0 +1,11 @@
+2) Explique as duas fases de compilação de programas Java.
+
+
+	A compilação do java ocorre em duas fases, a primeira o código com a extensão.java é
+compilado (javac) e convertido em bytecode. A partir desse ponto cada classe classe é armaze
+nada em diferentes arquivos .class. Esse arquivo, porém, não será executado pelo SO, ele te
+rá que passar por uma máquina virtual, a Java Virtual Machine.
+	Após o programa ser compilado, o arquivo .class gerado é executado pela Java Virtual
+Machine, nessa etapa, dependendo da aplicação ele pode ser interpretato ou compilado de manei
+ra que ocorra uma compilação just in time, que converte o bytecode em código de máquina a me
+dida que o código é executado.

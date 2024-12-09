@@ -1,0 +1,14 @@
+Preencha as lacunas em cada uma das seguintes afirmações
+a) O comando java do JDK executa um aplicativo Java.
+b) O comando javac do JDK compila um programa Java.
+c) Um arquivo de código-fonte aberto Java deve terminar com a extensão .java.
+d) Quando um programa Java é compilado, o arquivo produzido pelo compilador termina
+com a extensão .class.
+e) O arquivo produzido pelo compilador Java contém bytecodes, que são executados pela
+Java Virtual Machine.
+f) a linguagem de programação c++ foi desenvolvida por bjarne stroustrup no início
+dos anos 1980 na Bell Laboratories.
+g) As linguagens mais convenientes para que o programador escreva programas rápida e
+facilmente são as de alto nível.
+h) Assembly é um tipo de linguagem de computador que utiliza abreviações em inglês para
+instruções de linguagem de máquina.
